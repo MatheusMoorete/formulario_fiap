@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.btn-pink {
+    background-color: #FF69B4;
+    border-color: #FF69B4;
+    color: white;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-pink:hover {
+    background-color: #f5488b;
+    border-color: #f5488b;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
